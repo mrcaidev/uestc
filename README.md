@@ -8,7 +8,7 @@
 
 | 课程                              | 仓库                                                                                                                       | 状态      |
 | :-------------------------------- | :------------------------------------------------------------------------------------------------------------------------- | :-------- |
-| 编译原理                          | [fundamentals-of-compiler](https://github.com/mrcaidev/fundamentals-of-compiler)                                           | 🚧 施工中 |
+| 编译原理                          | [fundamentals-of-compiler](https://github.com/mrcaidev/fundamentals-of-compiler)                                           | ✅ 正常   |
 | 操作系统                          | [computer-operating-system](https://github.com/mrcaidev/computer-operating-system)                                         | ✅ 正常   |
 | 多元统计分析                      | [multivariate-statistical-analysis](https://github.com/mrcaidev/multivariate-statistical-analysis)                         | ✅ 正常   |
 | 分布式并行计算                    | [distributed-and-parallel-computing](https://github.com/mrcaidev/distributed-and-parallel-computing)                       | 🚧 施工中 |
