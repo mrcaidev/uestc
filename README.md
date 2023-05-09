@@ -11,7 +11,7 @@
 | 编译原理                          | [fundamentals-of-compiler](https://github.com/mrcaidev/fundamentals-of-compiler)                                           | ✅ 正常   |
 | 操作系统                          | [computer-operating-system](https://github.com/mrcaidev/computer-operating-system)                                         | ✅ 正常   |
 | 多元统计分析                      | [multivariate-statistical-analysis](https://github.com/mrcaidev/multivariate-statistical-analysis)                         | ✅ 正常   |
-| 分布式并行计算                    | [distributed-and-parallel-computing](https://github.com/mrcaidev/distributed-and-parallel-computing)                       | 🚧 施工中 |
+| 分布式并行计算                    | [distributed-and-parallel-computing](https://github.com/mrcaidev/distributed-and-parallel-computing)                       | ✅ 正常   |
 | go 语言与区块链技术应用（计算器） | [calculator](https://github.com/mrcaidev/calculator)                                                                       | ✅ 正常   |
 | go 语言与区块链技术应用（区块链） | [blockchain](https://github.com/mrcaidev/blockchain)                                                                       | ✅ 正常   |
 | 计算机网络与通信技术              | [computer-network-and-communication-technology](https://github.com/mrcaidev/computer-network-and-communication-technology) | ✅ 正常   |
