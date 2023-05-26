@@ -19,7 +19,7 @@
 | 鲲鹏聚数                          | [hr-management-system](https://github.com/mrcaidev/hr-management-system)                                                   | ✅ 正常   |
 | 人工智能                          | [artificial-intelligence](https://github.com/mrcaidev/artificial-intelligence)                                             | ✅ 正常   |
 | 软件工程                          | [score-management-system](https://github.com/mrcaidev/score-management-system)                                             | 🚧 施工中 |
-| 软件技术基础                      | [intelligent-logistics](https://github.com/mrcaidev/intelligent-logistics)                                                 | 🚧 施工中 |
+| 软件基础综合课程设计              | [intelligent-logistics](https://github.com/mrcaidev/intelligent-logistics)                                                 | ✅ 正常   |
 | 数据库原理及应用                  | [principle-and-application-of-database](https://github.com/mrcaidev/principle-and-application-of-database)                 | ✅ 正常   |
 | 数据挖掘与大数据分析              | [data-mining-and-big-data-analytics](https://github.com/mrcaidev/data-mining-and-big-data-analytics)                       | ✅ 正常   |
 | 数学实验                          | [mathematics-experiment](https://github.com/mrcaidev/mathematics-experiment)                                               | ✅ 正常   |
