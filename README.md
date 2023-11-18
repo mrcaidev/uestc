@@ -26,6 +26,7 @@
 | 数据挖掘与大数据分析              | [data-mining-and-big-data-analytics](https://github.com/mrcaidev/data-mining-and-big-data-analytics)                             | ✅ 正常   |
 | 数学实验                          | [mathematics-experiment](https://github.com/mrcaidev/mathematics-experiment)                                                     | ✅ 正常   |
 | 统计学习与模式识别                | [statistic-learning-and-pattern-recognition](https://github.com/mrcaidev/statistic-learning-and-pattern-recognition)             | ✅ 正常   |
+| 信息检索                          | [information-retrieval](https://github.com/mrcaidev/information-retrieval)                                                       | ✅ 正常   |
 | 知识表示与推理（练习题）          | [knowledge-representation-and-reasoning](https://github.com/mrcaidev/knowledge-representation-and-reasoning)                     | ✅ 正常   |
 | 知识表示与推理（知识问答）        | [kgqa](https://github.com/mrcaidev/kgqa)                                                                                         | ✅ 正常   |
 
